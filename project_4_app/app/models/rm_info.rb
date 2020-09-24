@@ -1,0 +1,2 @@
+class RmInfo < ApplicationRecord
+end
