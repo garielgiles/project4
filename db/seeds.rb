@@ -12,3 +12,4 @@
         content: Faker::TvShows::RickAndMorty.quote
     )
 end
+puts "IT'S PICKLE RICK"
